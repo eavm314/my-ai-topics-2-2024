@@ -4,3 +4,9 @@ numpy
 opencv-python
 jupyter
 matplotlib
+torch
+torchvision
+lightning
+scikit-learn
+pycocotools
+ultralytics
