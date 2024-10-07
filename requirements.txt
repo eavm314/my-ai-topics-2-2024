@@ -10,3 +10,6 @@ lightning
 scikit-learn
 pycocotools
 ultralytics
+requests
+beautifulsoup4
+spacy
